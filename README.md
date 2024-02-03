@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics, Python, microcontrollers, and computer science.
 - 🌱 I’m currently learning basic web development.
 - 💞️ In Python I'm currently working on starting an open source garden planner.
-- 🐔 I built and am still improving an automatic chicken coop door with Raspberry Pi.
+- 🐔 I designed, built and am still improving an automatic chicken coop door using Raspberry Pi.
 - 📫 LinkedIn: https://www.linkedin.com/in/NickChurch3
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I used to guide canoe trips in the Minnesota Boundary Waters.
